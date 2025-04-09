@@ -1,0 +1,202 @@
+.banner-con {
+  justify-content: space-around;
+  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), 
+              url('./components/img/WelcomePageBanner.jpg');
+  background-size: cover;
+  background-position: center;
+  color: rgb(55, 219, 26);
+  padding-bottom: 90px;
+}
+
+.banner-con .box h1{
+  font-size: 50px;
+  font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.banner-con .sec h1{
+  font-size: 70px;
+  text-align: center;
+  justify-content: center;
+  padding-left: 300px;
+  padding-right: 300px;
+  color: white;
+}
+
+.banner-con .sec h3{
+  font-size: 30px;
+  text-align: center;
+  justify-content: center;
+  padding-left: 300px;
+  padding-right: 300px;
+  color: white;
+}
+
+.banner-con .sec p{
+  font-size: 18px;
+  text-align: center;
+  justify-content: center;
+  padding-left: 300px;
+  padding-right: 300px;
+  color: white;
+}
+
+.banner-con .sec .input-box{
+  font-size: 15px;
+  padding: 15px;
+  border-radius: 25px;
+  background-color: transparent;
+  background: linear-gradient(rgb(87, 85, 85), rgb(107, 106, 106));
+  color: white;
+  width: 300px;
+}
+
+.banner-con .sec .input-box::placeholder {
+  color: white;
+}
+
+.banner-con .sec button{
+  border-radius: 30px;
+  font-size: 15px;
+  padding: 15px;
+  width: 150px;
+  margin-left: 10px;
+  background-color: rgb(47, 255, 0);
+  color: white  ;
+}
+
+
+.banner-con img{
+  height: 500px;
+}
+
+.banner-con .box{
+  padding: 20px;
+}
+
+.movie-con{
+  background-color: black;
+  color: white;
+  display: flex;
+  justify-content: space-around;
+}
+
+.movie-con img{
+  height: 300px;
+}
+
+.movie-con h1{
+  font-size: 20px;
+  text-align: center;
+}
+
+.movie-sec h1{
+  background-color: black;
+  color: white;
+  padding: 50px;
+  margin: 0;
+}
+
+.movie-sec .movie-head{
+  background-color: black;
+  color: white;
+  padding-left: 50px;
+  padding-top: 30px;
+  padding-bottom: 40px;
+  margin: 0;
+  font-size: 25px;
+}
+
+.movie-sec .price-con{
+  display: flex;
+  justify-content: space-evenly;
+  background-color: black;
+  color: white;
+  padding-left: 50px;
+  margin: 0;
+  padding-bottom: 30px;
+}
+
+.movie-sec .price-con .box1, .box2, .box3, .box4{
+  
+  color: white;
+  padding-left: 40px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  width: 280px;
+  border-radius: 20px;
+  text-align: left;
+}
+
+.movie-sec .price-con .box1, .box2{
+  background: linear-gradient(45deg,rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)),
+  linear-gradient(350deg,rgb(0, 0, 0), blue);
+}
+.movie-sec .price-con .box3{
+  background: linear-gradient(45deg,rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)),
+  linear-gradient(350deg,rgb(0, 0, 0), rgb(190, 112, 160));
+}
+.movie-sec .price-con .box4{
+  background: linear-gradient(45deg,rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)),
+  linear-gradient(350deg,rgb(0, 0, 0), rgb(205, 149, 82));
+}
+
+.faq-sec{
+  background-color: black;
+  padding: 45px;
+  color: white;
+
+}
+
+.faq-con{
+  justify-content: center;
+}
+.faq-sec .faq-con .box{
+  background-color: rgb(44, 42, 42);
+  font-size: 20px;
+  padding: 25px;
+  width: 80%;
+  text-align: left;
+  margin: 20px;
+  border-radius: 10px;
+}
+
+.faq-con .box:hover{
+  background-color: rgb(67, 65, 65);
+  cursor: pointer;
+}
+
+
+.footer-sec{
+  background-color: black;
+  padding: 50px;
+  color: white;
+}
+
+.footer-sec p{
+  font-size: 18px;
+}
+
+.footer-sec input{
+  font-size: 15px;
+  padding: 15px;
+  border-radius: 25px;
+  background-color: transparent;
+  background: linear-gradient(rgb(87, 85, 85), rgb(107, 106, 106));
+  color: white;
+  width: 300px;
+}
+
+.footer-sec button{
+  border-radius: 30px;
+  font-size: 15px;
+  padding: 15px;
+  width: 150px;
+  margin-left: 10px;
+  background-color: rgb(51, 255, 0);
+  color: white  ;
+}
+
+.footer-sec input::placeholder{
+  color: white;
+}
