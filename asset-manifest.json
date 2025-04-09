@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/DhanushRB/Netflix-task-7.git/static/css/main.1e26a599.css",
-    "main.js": "/DhanushRB/Netflix-task-7.git/static/js/main.cc78ef00.js",
-    "static/media/WelcomePageBanner.jpg": "/DhanushRB/Netflix-task-7.git/static/media/WelcomePageBanner.f00a15714171306ef447.jpg",
-    "static/media/movie3.webp": "/DhanushRB/Netflix-task-7.git/static/media/movie3.77753617de7ca07ee9d7.webp",
-    "static/media/movie5.jpg": "/DhanushRB/Netflix-task-7.git/static/media/movie5.23fe43b3f8b8f2a6f8b0.jpg",
-    "static/media/movie2.jpg": "/DhanushRB/Netflix-task-7.git/static/media/movie2.31ccf5f0eef95b0f198e.jpg",
-    "static/media/movie4.jpeg": "/DhanushRB/Netflix-task-7.git/static/media/movie4.ab517fcd3bfe020b14dd.jpeg",
-    "index.html": "/DhanushRB/Netflix-task-7.git/index.html",
-    "main.1e26a599.css.map": "/DhanushRB/Netflix-task-7.git/static/css/main.1e26a599.css.map",
-    "main.cc78ef00.js.map": "/DhanushRB/Netflix-task-7.git/static/js/main.cc78ef00.js.map"
+    "main.css": "/Netflix-task-7/static/css/main.174abcda.css",
+    "main.js": "/Netflix-task-7/static/js/main.c1f19f41.js",
+    "static/media/WelcomePageBanner.jpg": "/Netflix-task-7/static/media/WelcomePageBanner.f00a15714171306ef447.jpg",
+    "static/media/movie3.webp": "/Netflix-task-7/static/media/movie3.77753617de7ca07ee9d7.webp",
+    "static/media/movie5.jpg": "/Netflix-task-7/static/media/movie5.23fe43b3f8b8f2a6f8b0.jpg",
+    "static/media/movie2.jpg": "/Netflix-task-7/static/media/movie2.31ccf5f0eef95b0f198e.jpg",
+    "static/media/movie4.jpeg": "/Netflix-task-7/static/media/movie4.ab517fcd3bfe020b14dd.jpeg",
+    "index.html": "/Netflix-task-7/index.html",
+    "main.174abcda.css.map": "/Netflix-task-7/static/css/main.174abcda.css.map",
+    "main.c1f19f41.js.map": "/Netflix-task-7/static/js/main.c1f19f41.js.map"
   },
   "entrypoints": [
-    "static/css/main.1e26a599.css",
-    "static/js/main.cc78ef00.js"
+    "static/css/main.174abcda.css",
+    "static/js/main.c1f19f41.js"
   ]
 }
